@@ -8,7 +8,11 @@ L'objectif de ce dépôt est de développer puis partager les éléments pour co
 * l'instrumentation (couplemètre, capteurs à effet hall, tachymètre, ...)
 * la communication via le bus CAN
 
+Un banc de base est proposé avec des composants industriels : 
 
+![image](https://github.com/user-attachments/assets/96fe0721-dbea-4d9c-8db4-b97b0c44799e)
+
+Chargeur 
 
 ![image](https://github.com/user-attachments/assets/f365f16e-d460-4303-b378-ee5e90997bbb)
 Banc développé à l'IUT de Cachan
